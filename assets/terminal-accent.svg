@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<rect width="900" height="90" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="88" rx="13" fill="none" stroke="#263238"/>
+<circle cx="28" cy="27" r="5" fill="#7ee787"/>
+<circle cx="47" cy="27" r="5" fill="#a78bfa"/>
+<circle cx="66" cy="27" r="5" fill="#39d98a"/>
+<text x="28" y="60" fill="#7ee787" font-family="monospace" font-size="16">$ echo "Nima — Full-Stack Developer + AI Engineer"</text>
+<rect x="715" y="45" width="9" height="17" fill="#a78bfa">
+<animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+</svg>
